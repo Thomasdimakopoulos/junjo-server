@@ -1,5 +1,6 @@
 /tmp/
-.env
 dbdata/
 .DS_Store
 .gitleaks/**
+config.bat
+node_modules
